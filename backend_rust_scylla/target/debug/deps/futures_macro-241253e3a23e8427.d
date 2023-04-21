@@ -1,0 +1,9 @@
+d:\Materiały_do_nauki\rust_scylla\backend_rust_scylla\target\debug\deps\futures_macro-241253e3a23e8427.dll: C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\lib.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\executor.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\join.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\select.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\stream_select.rs
+
+d:\Materiały_do_nauki\rust_scylla\backend_rust_scylla\target\debug\deps\futures_macro-241253e3a23e8427.d: C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\lib.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\executor.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\join.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\select.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\stream_select.rs
+
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\lib.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\executor.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\join.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\select.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\stream_select.rs:

@@ -1,0 +1,9 @@
+d:\Materiały_do_nauki\rust_scylla\backend_rust_scylla\target\debug\deps\libc-f122fd8e80c2b239.rmeta: C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\lib.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\macros.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\fixed_width_ints.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\windows\mod.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\windows\msvc\mod.rs
+
+d:\Materiały_do_nauki\rust_scylla\backend_rust_scylla\target\debug\deps\libc-f122fd8e80c2b239.d: C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\lib.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\macros.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\fixed_width_ints.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\windows\mod.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\windows\msvc\mod.rs
+
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\lib.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\macros.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\fixed_width_ints.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\windows\mod.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.142\src\windows\msvc\mod.rs:

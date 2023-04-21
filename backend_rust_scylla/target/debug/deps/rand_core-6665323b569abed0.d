@@ -1,0 +1,10 @@
+d:\Materiały_do_nauki\rust_scylla\backend_rust_scylla\target\debug\deps\rand_core-6665323b569abed0.rmeta: C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\lib.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\block.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\error.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\impls.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\le.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\os.rs
+
+d:\Materiały_do_nauki\rust_scylla\backend_rust_scylla\target\debug\deps\rand_core-6665323b569abed0.d: C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\lib.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\block.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\error.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\impls.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\le.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\os.rs
+
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\lib.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\block.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\error.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\impls.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\le.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\os.rs:

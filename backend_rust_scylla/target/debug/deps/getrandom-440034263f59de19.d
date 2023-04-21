@@ -1,0 +1,9 @@
+d:\Materiały_do_nauki\rust_scylla\backend_rust_scylla\target\debug\deps\getrandom-440034263f59de19.rmeta: C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs
+
+d:\Materiały_do_nauki\rust_scylla\backend_rust_scylla\target\debug\deps\getrandom-440034263f59de19.d: C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs
+
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs:
+C:\Users\Piotr\ Jagiello\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs:
